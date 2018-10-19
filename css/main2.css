@@ -46,13 +46,31 @@ button{
   background-color: #c1e40e;
   color: white;
   padding: 14px 16px;
-
+  transition: background-color 1s;
 	
 }
 
-.orangea{
-	background-color: #fc713a;
+
+.hide-div{
+  height: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+	color: #c1e40e;
+
+  transition: height 2s
 }
+
+
+.show-div{
+	height: 140px;
+	background-color: #ffffff;
+	color: #c1e40e;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	transition: height 1s;
+	
+}
+
 
 
 /* ---------- Mobile NAV-----------*/
