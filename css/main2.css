@@ -35,6 +35,26 @@ body {
   }
 
 
+.colorjs {
+  background-color: #AAAEBC;
+  color:#ffffff;
+
+
+}  
+
+button{
+  background-color: #c1e40e;
+  color: white;
+  padding: 14px 16px;
+
+	
+}
+
+.orangea{
+	background-color: #fc713a;
+}
+
+
 /* ---------- Mobile NAV-----------*/
 
 
@@ -391,33 +411,7 @@ h6.foothead{
 	background-color: #fc713a;
 }
 
-#desk a.activeorange{
 
-  background-color: #fc713a;
-  color: white;
-  margin-left: 5px;
-  border-bottom-left-radius: 10px 10px;
-    border-bottom-right-radius: 10px 10px;
-}
-
-#desk a.activeorange:hover{
-	color: #ffffff;
-	background-color: #c1e40e;
-}
-
-
-
-#desk a.activegreen{
-	background-color: #c1e40e;
-  color: white;
-  border-bottom-left-radius: 10px 10px;
-    border-bottom-right-radius: 10px 10px;
-}
-
-#desk a.activegreen:hover{
-	color: #ffffff;
-	background-color: #fc713a;
-}
 
 
 /*REEEEEEEEEEESPONSIVE*/
